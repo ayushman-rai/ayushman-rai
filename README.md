@@ -53,6 +53,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushman-rai/ayushman-rai/output/github-contribution-grid-snake.svg" />
+</p>
+
+----
+
 ### ⚡ Fun Fact
 I enjoy turning ideas into real-world applications 🚀
  this is the current code 
