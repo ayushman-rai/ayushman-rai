@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayushman Rai</h1>
+<h1 align="center">AYUSHMAN RAI</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Open+to+Internships&center=true&width=500&height=50">
